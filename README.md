@@ -3,6 +3,6 @@
 I'm currently a student at Northeastern University studying Computer Science and Mathematics. 
 
 - :love_letter: contact me @ su.xiaol@northeastern.edu
-- :thought_balloon: website : https://xiaolesu.netlify.app/
+- :thought_balloon: website : https://xiaolesu.vercel.app/
 
 
