@@ -11,5 +11,5 @@ Featured Projects
 - 🎯 ALIHacks Registration Platform
 ---
 📫 Checkout 
-**Email:** su.xiaol@northeastern.edu | **Website:** [xiaolesu.vercel.app](https://xiaolesu.vercel.app/) | **LinkedIn:** [linkedin.com/in/xiaolesu](https://linkedin.com/in/xiaolesu/)
+**Email:** su.xiaol@northeastern.edu | **Website:** [xiaolesu.vercel.app](https://xiaolesu.com/) | **LinkedIn:** [linkedin.com/in/xiaolesu](https://linkedin.com/in/xiaolesu/)
 
