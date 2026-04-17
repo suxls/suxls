@@ -12,6 +12,7 @@ a Computer Science and Mathematics student at Northeastern University, passionat
 - 📊 Data Overlap in Autoformalization – *Independent Research @ Osmosis (YC W25)*
   [https://github.com/suxls/data-overlap-autoformalization]  
   Investigated the impact of SFT–GRPO data overlap in Lean 4 autoformalization pipelines.
+  Published at [https://arxiv.org/abs/2604.13515]
 
 - 💼 Coop Review Platform – *Northeastern Sandbox Software Consultancy*
   [https://github.com/sandboxnu/cooper]  
