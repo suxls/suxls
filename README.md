@@ -18,7 +18,7 @@ a Computer Science and Mathematics student at Northeastern University, passionat
   Built a platform to help students share and explore co-op experiences.
 
 - 🎮 EyeCraft – *🏆 HackMIT 2025 Winner (Entertainment Track)*
-  [[https://github.com/suxls](https://github.com/suxls/eyecraft-hackmit2025)]  
+  [[https://github.com/suxls/eyecraft-hackmit2025](https://github.com/suxls/eyecraft-hackmit2025)]  
   Developed an immersive project combining creative interaction and gameplay mechanics.
 ---
 📫 Checkout 
